@@ -9,6 +9,6 @@ def multiply(a,b):
         return 0
     return multiply(a-1,b) + b
 #test
-a=int(input())
-b=int(input())
-print(multiply(a,b))
+#a=int(input())
+#b=int(input())
+#print(multiply(a,b))
